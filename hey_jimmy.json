@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "hey jimmy",
   "author": "Jacob",
-  "website": "https://www.github.com/",
   "model": "./hey_jimmy.tflite",
   "version": 1,
   "micro": {
