@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey jimmy",
   "author": "Jacob",
-  "website": "NA",
+  "website": "https://github.com/J-HomeLab/micro-wake-word-models",
   "model": "./hey_jimmy.tflite",
   "version": 1,
   "micro": {
