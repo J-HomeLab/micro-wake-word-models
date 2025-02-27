@@ -2,11 +2,12 @@
     "type": "micro",
     "wake_word": "hey jimmy",
     "author": "Jacob",
-    "website": "https://www.kevinahrendt.com/",
+    "website": "https://www.example.com/",
     "model": "./hey_jimmy.tflite",
-    "version": 1,
+    "version": 2,
     "micro": {
-        "probability_cutoff": 0.5,
-        "sliding_window_average_size": 10
+        "probability_cutoff": 0.85,
+        "feature_step_size": 10,
+        "sliding_window_size": 10
     }
 }
